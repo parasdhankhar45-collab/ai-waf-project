@@ -6,3 +6,4 @@ Extracts request data (URL, query parameters, payload)
 Analyzes it using:A trained ML model ,Rule-based detection (regex patterns)
 Decides whether to: Allow the request or Block it 
 Logs every request for analysis (similar to SOC systems)
+<img width="1902" height="900" alt="image" src="https://github.com/user-attachments/assets/a939450b-2661-4955-83ac-ff36e42a24fe" />
